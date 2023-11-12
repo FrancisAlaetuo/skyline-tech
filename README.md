@@ -1,2 +1,6 @@
 # skyline-tech
-skyline-tech
+skyline-tech | By Francis Alaetuo | Cohort 11
+
+#TABLE 2
+
+TABLE 2 CONTAINS THE STUDENTS' RECORD FOR COHORT 11 TRAINEES IN OBIDIENT TECH SPACE
